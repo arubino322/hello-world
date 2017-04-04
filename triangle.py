@@ -1,6 +1,6 @@
 from turtle import *
 
-color('red', 'yellow')
+#color('red', 'yellow')
 begin_fill()
 pensize(10)
 while True:
